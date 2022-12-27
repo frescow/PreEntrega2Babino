@@ -29,3 +29,7 @@ thead{
     border-style: solid;
     border-color: blue;
 }
+.animate__animated.animate__bounce {
+    --animate-duration: 2s;
+  }
+  
